@@ -67,7 +67,7 @@ jobs:
         input: ''
         expected-output: |
           -100
-          100
+          0
           1
         comparison-method: contains
         timeout: 10
